@@ -2,7 +2,7 @@ The Titanic dataset is a famous dataset in the field of data analysis and machin
 
 Key features in the dataset include:
 
-Passenger Class (Pclass): A categorical variable representing the class of the ticket (1st, 2nd, or 3rd class), which can be indicative of socioeconomic status.
+**Passenger Class (Pclass):** A categorical variable representing the class of the ticket (1st, 2nd, or 3rd class), which can be indicative of socioeconomic status.
 
 **Name:** The name of the passenger.
 
