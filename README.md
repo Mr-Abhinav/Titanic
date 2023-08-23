@@ -4,23 +4,23 @@ Key features in the dataset include:
 
 Passenger Class (Pclass): A categorical variable representing the class of the ticket (1st, 2nd, or 3rd class), which can be indicative of socioeconomic status.
 
-Name: The name of the passenger.
+**Name:** The name of the passenger.
 
-Sex: The gender of the passenger.
+**Sex:** The gender of the passenger.
 
-Age: The age of the passenger.
+**Age:** The age of the passenger.
 
-SibSp: The number of siblings or spouses the passenger had aboard the Titanic.
+**SibSp:** The number of siblings or spouses the passenger had aboard the Titanic.
 
-Parch: The number of parents or children the passenger had aboard the Titanic.
+**Parch:** The number of parents or children the passenger had aboard the Titanic.
 
-Ticket: The ticket number.
+**Ticket:** The ticket number.
 
-Fare: The amount of money the passenger paid for the ticket.
+**Fare:** The amount of money the passenger paid for the ticket.
 
-Cabin: The cabin number where the passenger stayed.
+**Cabin:** The cabin number where the passenger stayed.
 
-Embarked: The port at which the passenger boarded the Titanic (C = Cherbourg; Q = Queenstown; S = Southampton).
+**Embarked:** The port at which the passenger boarded the Titanic (C = Cherbourg; Q = Queenstown; S = Southampton).
 
 The main objective of analyzing this dataset is often to predict whether a passenger survived the sinking of the Titanic based on the given features. This is a binary classification problem where the target variable is "Survived" (0 for not survived, 1 for survived).
 
