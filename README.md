@@ -2,7 +2,7 @@
 
 The Titanic dataset is a famous dataset in the field of data analysis and machine learning. It contains information about passengers on the RMS Titanic, including whether they survived or not. The dataset is often used for training and testing machine learning models to predict survival outcomes based on various features.
 
-Key features in the dataset include:
+**Key features in the dataset include:**
 
 **Passenger Class (Pclass):** A categorical variable representing the class of the ticket (1st, 2nd, or 3rd class), which can be indicative of socioeconomic status.
 
